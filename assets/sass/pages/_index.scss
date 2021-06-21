@@ -1,8 +1,7 @@
 @media (max-width: 991px) {
   .navbar {
     padding: 0 2rem;
-    height: 14vh;
-
+    min-height: 14vh;
   }
   .header {
     height: 86vh;
@@ -24,8 +23,8 @@
     padding-top: 2rem;
     text-align: center;
     & .btn {
-      margin-right: 0.1rem;
-      margin-left:  0.1rem;
+      margin-right: 0.09rem;
+      margin-left:  0.09rem;
     }
   }
   .contact {
